@@ -45,9 +45,15 @@ pip install -r requirements.txt
 python app.py
 Make sure you have MongoDB running locally or connected to a remote cluster.
 
-💬 Community
-Have feedback, ideas, or want to help out?
-Join our Discord: https://discord.gg/qFFJeVKd7E
+```
+## 💬 Community
 
-📄 License
-This project is open source and available under the MIT License.
+Have feedback, ideas, or want to help out?  
+Join our Discord: [https://discord.gg/qFFJeVKd7E](https://discord.gg/qFFJeVKd7E)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
